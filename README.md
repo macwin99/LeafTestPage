@@ -23,3 +23,6 @@ por si desean ver la funcionalidad del share, pero el de la pagina actual no se 
 *Todo el codigo fue creado desde 0;
 *Algunos elementos como tipos de letra o distancia en pixeles no se encontraban en la imagen de apoyo.
 *Se realizaron algunas consultas con respecto a algunas a algunas dudas del diseño a Helga Alvarez.
+
+Ejemplo
+www.leaftest.uphero.com?PLcvLv4MM0CsvhBT_3_9dG9g-lQCjMiEVd
