@@ -1,0 +1,12 @@
+var playListLink = "https://www.youtube.com/playlist?list=";
+var videoNum = 0;
+var play_gif = "img/music.gif";
+var pause_gif = "img/ffffff.png";
+var playlist_JSON = new Array();
+var player_element;
+var current_sec=0;
+var current_min=0;
+var currentClock;
+var lastTime=0;
+var ShareURL;
+var playListURL;
